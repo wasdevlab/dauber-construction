@@ -124,7 +124,7 @@
                 </div>
 
                 <div class="wrapper" data-aos="fade-up">
-                    <a class="btn" href="{{ route('contact-us') }}">Consult now</a>
+                    <a class="btn" href="{{ route('contact-us') }}">Consulter maintenant</a>
                 </div>
             </div>
 
