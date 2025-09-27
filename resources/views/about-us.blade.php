@@ -7,7 +7,7 @@
 
     <x-slot name="header">
         <header class="page primary-bg">
-            <div class="container">
+                <div class="container">
                 <div class="section_header">
                     <span class="subtitle subtitle--extended">Construire ensemble</span>
                     <h1 class="title">À Propos</h1>
@@ -49,7 +49,7 @@
                 </div>
 
                 <div class="wrapper" data-aos="fade-up">
-                    <a class="btn" href="{{ route('contact-us') }}">Consult now</a>
+                    <a class="btn" href="{{ route('contact-us') }}">Consulter maintenant</a>
                 </div>
             </div>
             <div class="media" data-aos="zoom-in" data-aos-duration="700">
@@ -151,7 +151,7 @@
                 </div>
 
                 <div class="wrapper" data-aos="fade-up">
-                    <a class="btn" href="{{ route('contact-us') }}">Consult now</a>
+                    <a class="btn" href="{{ route('contact-us') }}">Consulter maintenant</a>
                 </div>
             </div>
             <div class="media" data-aos="zoom-in" data-aos-duration="700">
@@ -189,7 +189,7 @@
                 </div>
 
                 <div class="wrapper" data-aos="fade-up">
-                    <a class="btn" href="{{ route('contact-us') }}">Consult now</a>
+                    <a class="btn" href="{{ route('contact-us') }}">Consulter maintenant</a>
                 </div>
             </div>
 
