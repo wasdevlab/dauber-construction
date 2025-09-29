@@ -78,11 +78,7 @@
                         </p>
                     </div>
 
-                    <div class="legal_section" style="margin-bottom: 3rem;">
-                        <h3 style="color: #d4af37; font-size: 1.5rem; margin-bottom: 1.5rem; font-weight: 600;">Cookies</h3>
-                        <p style="margin-bottom: 1rem;">Ce site utilise des cookies pour assurer son bon fonctionnement, améliorer votre expérience et réaliser des statistiques de visite. En poursuivant votre navigation, vous acceptez l'utilisation de ces cookies. Vous pouvez configurer ou désactiver les cookies directement dans votre navigateur.</p>
-                    </div>
-
+                    
                 </div>
             </div>
         </div>
