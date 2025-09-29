@@ -106,7 +106,7 @@
             </div>
             <div class="main">
                 <div class="section_header">
-                    <span class="subtitle" data-aos="fade-down">Our Vision</span>
+                    <span class="subtitle" data-aos="fade-down">Notre vision</span>
                     <h2 class="title" data-aos="fade-right">
                         <span class="highlight">VISION</span> Fondée sur l'Excellence et l'Innovation
                     </h2>
@@ -135,7 +135,7 @@
         <div class="container">
             <div class="main">
                 <div class="section_header">
-                    <span class="subtitle" data-aos="fade-down">Our Commitment</span>
+                    <span class="subtitle" data-aos="fade-down">Notre engagement</span>
                     <h2 class="title" data-aos="fade-right">
                         Notre <span class="highlight">ENGAGEMENT</span> pour le succès client
                     </h2>

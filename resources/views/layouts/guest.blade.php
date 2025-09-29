@@ -179,6 +179,10 @@
                             <a class="nav-link link" href="{{ route('contact-us') }}"><i
                                     class="icon-chevron_right icon"></i> Contact</a>
                         </li>
+                           <li class="list-item">
+                            <a class="nav-link link" href="{{ route('mentions-legales') }}"><i
+                                    class="icon-chevron_right icon"></i> Mentions Légales</a>
+                        </li>
                     </ul>
                 </div>
              
