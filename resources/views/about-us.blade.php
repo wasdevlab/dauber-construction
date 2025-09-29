@@ -82,7 +82,7 @@
                         fill="#344F6B"></path>
                 </svg>
                 <span class="subtitle">Qui sommes-nous</span>
-                <h3>
+                <h3 style="position: relative; z-index: 5;" data-aos="fade-up" data-aos-delay="100">
                     Dauber and Partners Construction est une entreprise générale du bâtiment spécialisée dans tous 
                     les travaux de construction et de rénovation. Nous intervenons sur tous types de bâtiments : 
                     maisons individuelles, appartements, immeubles de bureaux et locaux commerciaux. Notre expertise 

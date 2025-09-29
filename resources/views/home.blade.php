@@ -2,6 +2,14 @@
     <link rel="stylesheet" href="css/index2.min.css" />
 @endpush
 <x-guest-layout>
+
+    <style>
+        .service-img {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+        }
+    </style>
     <section class="hero primary-bg">
         <span class="hero_overlay"></span>
         <div class="container container_regular">
@@ -14,53 +22,54 @@
                         <div class="service swiper-slide" data-bg="img/hero/01.jpg">
                             <h2 class="title h1">Toitures, Tuiles et Charpentes</h2>
                             <p class="text">
-                                Nous réalisons tous vos travaux de toiture : pose de tuiles, réparation de charpentes, 
-                                installation de gouttières et étanchéité. Notre expertise couvre tous types de bâtiments, 
-                                des maisons individuelles aux immeubles professionnels, avec un savoir-faire reconnu et 
+                                Nous réalisons tous vos travaux de toiture : pose de tuiles, réparation de charpentes,
+                                installation de gouttières et étanchéité. Notre expertise couvre tous types de
+                                bâtiments,
+                                des maisons individuelles aux immeubles professionnels, avec un savoir-faire reconnu et
                                 des matériaux de qualité.
                             </p>
                         </div>
                         <div class="service swiper-slide" data-bg="img/hero/02.jpg">
                             <h2 class="title h1">Façades, Pignons et Murs</h2>
                             <p class="text">
-                                Spécialisés dans la construction et rénovation de façades, nous prenons en charge tous 
-                                vos projets de maçonnerie : murs porteurs, pignons, bardage, isolation thermique et 
-                                ravalement. Nous intervenons sur tous types de construction pour garantir durabilité 
+                                Spécialisés dans la construction et rénovation de façades, nous prenons en charge tous
+                                vos projets de maçonnerie : murs porteurs, pignons, bardage, isolation thermique et
+                                ravalement. Nous intervenons sur tous types de construction pour garantir durabilité
                                 et esthétique.
                             </p>
                         </div>
                         <div class="service swiper-slide" data-bg="img/hero/03.jpg">
                             <h2 class="title h1">Pavage et Aménagements Extérieurs</h2>
                             <p class="text">
-                                Nous réalisons vos aménagements extérieurs : pavage de cours et allées, création de 
-                                terrasses, pose de dallages et revêtements. Nos équipes maîtrisent tous les matériaux 
+                                Nous réalisons vos aménagements extérieurs : pavage de cours et allées, création de
+                                terrasses, pose de dallages et revêtements. Nos équipes maîtrisent tous les matériaux
                                 et techniques pour sublimer vos espaces extérieurs résidentiels et professionnels.
                             </p>
                         </div>
                         <div class="service swiper-slide" data-bg="img/hero/04.jpg">
                             <h2 class="title h1">Réparations et Peinture</h2>
                             <p class="text">
-                                Nos artisans interviennent pour tous vos travaux de réparation : fissures, reprises 
-                                d'enduits, peinture intérieure et extérieure. Nous apportons des solutions durables 
-                                pour l'entretien et la remise en état de vos bâtiments avec un service de qualité 
+                                Nos artisans interviennent pour tous vos travaux de réparation : fissures, reprises
+                                d'enduits, peinture intérieure et extérieure. Nous apportons des solutions durables
+                                pour l'entretien et la remise en état de vos bâtiments avec un service de qualité
                                 professionnelle.
                             </p>
                         </div>
                         <div class="service swiper-slide" data-bg="img/hero/05.jpg">
                             <h2 class="title h1">Maintenance et Entretien Général</h2>
                             <p class="text">
-                                Nous assurons la maintenance complète de vos bâtiments : entretien préventif, 
-                                nettoyage de façades, vérification des toitures, maintenance des gouttières. 
-                                Un suivi régulier pour préserver la valeur et la sécurité de vos constructions 
+                                Nous assurons la maintenance complète de vos bâtiments : entretien préventif,
+                                nettoyage de façades, vérification des toitures, maintenance des gouttières.
+                                Un suivi régulier pour préserver la valeur et la sécurité de vos constructions
                                 sur le long terme.
                             </p>
                         </div>
                         <div class="service swiper-slide" data-bg="img/hero/06.jpg">
                             <h2 class="title h1">Rénovation Complète</h2>
                             <p class="text">
-                                De la réhabilitation partielle à la rénovation complète, nous gérons l'intégralité 
-                                de vos projets. Appartements, maisons, bâtiments professionnels : nous coordonnons 
-                                tous les corps de métiers pour une transformation réussie, dans le respect des 
+                                De la réhabilitation partielle à la rénovation complète, nous gérons l'intégralité
+                                de vos projets. Appartements, maisons, bâtiments professionnels : nous coordonnons
+                                tous les corps de métiers pour une transformation réussie, dans le respect des
                                 délais et du budget.
                             </p>
                         </div>
@@ -148,8 +157,8 @@
                         <div class="process_steps-step_wrapper">
                             <h4 class="title">Expertise Complète du Bâtiment</h4>
                             <p class="description">
-                                De la toiture à la façade, du pavage aux rénovations complètes, nous maîtrisons 
-                                tous les corps de métiers. Une seule équipe pour tous vos travaux de construction, 
+                                De la toiture à la façade, du pavage aux rénovations complètes, nous maîtrisons
+                                tous les corps de métiers. Une seule équipe pour tous vos travaux de construction,
                                 réparation et entretien de bâtiments.
 
                             </p>
@@ -163,8 +172,8 @@
                         <div class="process_steps-step_wrapper">
                             <h4 class="title">Qualité et Savoir-Faire</h4>
                             <p class="description">
-                                Nos artisans qualifiés utilisent des matériaux de première qualité et des techniques 
-                                éprouvées. Chaque chantier est supervisé avec rigueur pour garantir une finition 
+                                Nos artisans qualifiés utilisent des matériaux de première qualité et des techniques
+                                éprouvées. Chaque chantier est supervisé avec rigueur pour garantir une finition
                                 impeccable et durable.
 
                             </p>
@@ -178,8 +187,8 @@
                         <div class="process_steps-step_wrapper">
                             <h4 class="title">Service Complet et Réactif</h4>
                             <p class="description">
-                                De l'évaluation gratuite à la livraison finale, nous accompagnons chaque projet avec 
-                                un respect strict du budget, des délais et des standards de qualité. Notre engagement 
+                                De l'évaluation gratuite à la livraison finale, nous accompagnons chaque projet avec
+                                un respect strict du budget, des délais et des standards de qualité. Notre engagement
                                 client garantit votre satisfaction sur tous vos travaux de construction et rénovation.
                             </p>
                         </div>
@@ -200,92 +209,164 @@
                 </h2>
             </div>
             <ul class="services_list">
-            <li class="services_list-item" data-aos="fade-up">
-                <div class="wrapper">
-                    <span class="number">01</span>
-                    <h4 class="title">Toiture et Charpente</h4>
-                    <p class="description">
-                        Rénovation complète de toitures, remplacement de tuiles, réparation de charpentes et installation de gouttières pour tous types de bâtiments.
-                    </p>
-                </div>
-            </li>
-            <li class="services_list-item" data-aos="fade-up">
-                <div class="wrapper">
-                    <span class="number">02</span>
-                    <h4 class="title">Façades et Murs</h4>
-                    <p class="description">
-                        Ravalement de façades, rénovation de pignons, construction de murs, pavage et tous travaux d'aménagement extérieur.
-                    </p>
-                </div>
-            </li>
-            <li class="services_list-item" data-aos="fade-up">
-                <div class="wrapper">
-                    <span class="number">03</span>
-                    <h4 class="title">Réparations et Peinture</h4>
-                    <p class="description">
-                        Réparation de fissures, traitement de l'humidité, travaux de peinture intérieure et extérieure pour une finition parfaite.
-                    </p>
-                </div>
-            </li>
-            <li class="services_list-item" data-aos="fade-up">
-                <div class="wrapper">
-                    <span class="number">04</span>
-                    <h4 class="title">Entretien Général</h4>
-                    <p class="description">
-                        Maintenance complète de bâtiments, entretien préventif et tous travaux d'amélioration pour préserver votre patrimoine immobilier.
-                    </p>
-                </div>
-            </li>
-            <li class="services_list-item" data-aos="fade-up">
-                <div class="wrapper">
-                    <span class="number">05</span>
-                    <h4 class="title">Rénovation Complète</h4>
-                    <p class="description">
-                        Rénovation totale de maisons, appartements et bâtiments professionnels avec une approche globale et personnalisée.
-                    </p>
-                </div>
-            </li>
-            <li class="services_list-item" data-aos="fade-up">
-                <div class="wrapper">
-                    <span class="number">06</span>
-                    <h4 class="title">Expertise et Conseil</h4>
-                    <p class="description">
-                        Évaluation technique, conseils personnalisés et accompagnement dans tous vos projets de construction et rénovation.
-                    </p>
-                </div>
-            </li>
-            <li class="services_list-item" data-aos="fade-up">
-                <div class="wrapper">
-                    <span class="number">07</span>
-                    <h4 class="title">Maçonnerie Générale</h4>
-                    <p class="description">
-                        Travaux de maçonnerie, construction de murs porteurs, cloisons, et tous ouvrages en béton ou pierre.
-                    </p>
-                </div>
-            </li>
-            <li class="services_list-item" data-aos="fade-up">
-                <div class="wrapper">
-                    <span class="number">08</span>
-                    <h4 class="title">Isolation et Étanchéité</h4>
-                    <p class="description">
-                        Amélioration de l'isolation thermique et phonique, traitement de l'étanchéité pour un confort optimal et des économies d'énergie.
-                    </p>
-                </div>
-            </li>
-            <li class="services_list-item" data-aos="fade-up">
-                <div class="wrapper">
-                    <span class="number">09</span>
-                    <h4 class="title">Urgences et Dépannage</h4>
-                    <p class="description">
-                        Service d'urgence 24h/7j pour tous vos problèmes de toiture, fuites, infiltrations et situations nécessitant une intervention rapide.
-                    </p>
-                </div>
-            </li>
-               
+                <li class="services_list-item" data-aos="fade-up">
+                    <div class="media">
+                        <picture>
+                            <source data-srcset="img/hero/man-working-roof-with-drill.jpg" srcset="img/hero/man-working-roof-with-drill.jpg" type="image/webp"><img
+                                class="lazy entered loaded service-img" data-src="img/hero/man-working-roof-with-drill.jpg" src="img/hero/man-working-roof-with-drill.jpg"
+                                alt="John Doe" data-ll-status="loaded">
+                        </picture>
+                    </div>
+                    <div class="wrapper">
+                        <span class="number">01</span>
+                        <h4 class="title">Toiture et Charpente</h4>
+                        <p class="description">
+                            Rénovation complète de toitures, remplacement de tuiles, réparation de charpentes et
+                            installation de gouttières pour tous types de bâtiments.
+                        </p>
+                    </div>
+                </li>
+                <li class="services_list-item" data-aos="fade-up">
+                     <div class="media">
+                        <picture>
+                            <source data-srcset="img/hero/real-estate-agents-checking-construction-works.jpg" srcset="img/hero/real-estate-agents-checking-construction-works.jpg" type="image/webp"><img
+                                class="lazy entered loaded service-img" data-src="img/hero/real-estate-agents-checking-construction-works.jpg" src="img/hero/real-estate-agents-checking-construction-works.jpg"
+                                alt="John Doe" data-ll-status="loaded">
+                        </picture>
+                    </div>
+                    <div class="wrapper">
+                        <span class="number">02</span>
+                        <h4 class="title">Façades et Murs</h4>
+                        <p class="description">
+                            Ravalement de façades, rénovation de pignons, construction de murs, pavage et tous travaux
+                            d'aménagement extérieur.
+                        </p>
+                    </div>
+                </li>
+                <li class="services_list-item" data-aos="fade-up">
+                     <div class="media">
+                        <picture>
+                            <source data-srcset="img/hero/man-painting-walls-yellow.jpg" srcset="img/hero/man-painting-walls-yellow.jpg" type="image/webp"><img
+                                class="lazy entered loaded service-img" data-src="img/hero/man-painting-walls-yellow.jpg" src="img/hero/man-painting-walls-yellow.jpg"
+                                alt="John Doe" data-ll-status="loaded">
+                        </picture>
+                    </div>
+                    <div class="wrapper">
+                        <span class="number">03</span>
+                        <h4 class="title">Réparations et Peinture</h4>
+                        <p class="description">
+                            Réparation de fissures, traitement de l'humidité, travaux de peinture intérieure et
+                            extérieure pour une finition parfaite.
+                        </p>
+                    </div>
+                </li>
+                <li class="services_list-item" data-aos="fade-up">
+                     <div class="media">
+                        <picture>
+                            <source data-srcset="img/hero/male-plumber-working-with-client-fix-kitchen-problems.jpg" srcset="img/hero/male-plumber-working-with-client-fix-kitchen-problems.jpg" type="image/webp"><img
+                                class="lazy entered loaded service-img" data-src="img/hero/male-plumber-working-with-client-fix-kitchen-problems.jpg" src="img/hero/male-plumber-working-with-client-fix-kitchen-problems.jpg"
+                                alt="John Doe" data-ll-status="loaded">
+                        </picture>
+                    </div>
+                    <div class="wrapper">
+                        <span class="number">04</span>
+                        <h4 class="title">Entretien Général</h4>
+                        <p class="description">
+                            Maintenance complète de bâtiments, entretien préventif et tous travaux d'amélioration pour
+                            préserver votre patrimoine immobilier.
+                        </p>
+                    </div>
+                </li>
+                <li class="services_list-item" data-aos="fade-up">
+                     <div class="media">
+                        <picture>
+                            <source data-srcset="img/hero/full-shot-man-woman-standing-ladder.jpg" srcset="img/hero/full-shot-man-woman-standing-ladder.jpg" type="image/webp"><img
+                                class="lazy entered loaded service-img" data-src="img/hero/full-shot-man-woman-standing-ladder.jpg" src="img/hero/full-shot-man-woman-standing-ladder.jpg"
+                                alt="John Doe" data-ll-status="loaded">
+                        </picture>
+                    </div>
+                    <div class="wrapper">
+                        <span class="number">05</span>
+                        <h4 class="title">Rénovation Complète</h4>
+                        <p class="description">
+                            Rénovation totale de maisons, appartements et bâtiments professionnels avec une approche
+                            globale et personnalisée.
+                        </p>
+                    </div>
+                </li>
+                <li class="services_list-item" data-aos="fade-up">
+                     <div class="media">
+                        <picture>
+                            <source data-srcset="img/hero/low-angle-male-coworkers-meeting-office.jpg" srcset="img/hero/low-angle-male-coworkers-meeting-office.jpg" type="image/webp"><img
+                                class="lazy entered loaded service-img" data-src="img/hero/low-angle-male-coworkers-meeting-office.jpg" src="img/hero/low-angle-male-coworkers-meeting-office.jpg"
+                                alt="John Doe" data-ll-status="loaded">
+                        </picture>
+                    </div>
+                    <div class="wrapper">
+                        <span class="number">06</span>
+                        <h4 class="title">Expertise et Conseil</h4>
+                        <p class="description">
+                            Évaluation technique, conseils personnalisés et accompagnement dans tous vos projets de
+                            construction et rénovation.
+                        </p>
+                    </div>
+                </li>
+                <li class="services_list-item" data-aos="fade-up">
+                     <div class="media">
+                        <picture>
+                            <source data-srcset="img/hero/long-shot-men-working-roof.jpg" srcset="img/hero/long-shot-men-working-roof.jpg" type="image/webp"><img
+                                class="lazy entered loaded service-img" data-src="img/hero/long-shot-men-working-roof.jpg" src="img/hero/long-shot-men-working-roof.jpg"
+                                alt="John Doe" data-ll-status="loaded">
+                        </picture>
+                    </div>
+                    <div class="wrapper">
+                        <span class="number">07</span>
+                        <h4 class="title">Maçonnerie Générale</h4>
+                        <p class="description">
+                            Travaux de maçonnerie, construction de murs porteurs, cloisons, et tous ouvrages en béton ou
+                            pierre.
+                        </p>
+                    </div>
+                </li>
+                <li class="services_list-item" data-aos="fade-up">
+                     <div class="media">
+                        <picture>
+                            <source data-srcset="img/hero/worker-performs-overhaul-roof-residential-building.jpg" srcset="img/hero/worker-performs-overhaul-roof-residential-building.jpg" type="image/webp"><img
+                                class="lazy entered loaded service-img" data-src="img/hero/worker-performs-overhaul-roof-residential-building.jpg" src="img/hero/worker-performs-overhaul-roof-residential-building.jpg"
+                                alt="John Doe" data-ll-status="loaded">
+                        </picture>
+                    </div>
+                    <div class="wrapper">
+                        <span class="number">08</span>
+                        <h4 class="title">Isolation et Étanchéité</h4>
+                        <p class="description">
+                            Amélioration de l'isolation thermique et phonique, traitement de l'étanchéité pour un
+                            confort optimal et des économies d'énergie.
+                        </p>
+                    </div>
+                </li>
+                <li class="services_list-item" data-aos="fade-up">
+                     <div class="media">
+                        <picture>
+                            <source data-srcset="img/hero/medium-shot-paramedics-ready-help.jpg" srcset="img/hero/medium-shot-paramedics-ready-help.jpg" type="image/webp"><img
+                                class="lazy entered loaded service-img" data-src="img/hero/medium-shot-paramedics-ready-help.jpg" src="img/hero/medium-shot-paramedics-ready-help.jpg"
+                                alt="John Doe" data-ll-status="loaded">
+                        </picture>
+                    </div>
+                    <div class="wrapper">
+                        <span class="number">09</span>
+                        <h4 class="title">Urgences et Dépannage</h4>
+                        <p class="description">
+                            Service d'urgence 24h/7j pour tous vos problèmes de toiture, fuites, infiltrations et
+                            situations nécessitant une intervention rapide.
+                        </p>
+                    </div>
+                </li>
+
             </ul>
         </div>
     </section>
 
 
-   
+
 </x-guest-layout>

@@ -42,6 +42,10 @@ Route::get('/project-types', function () {
     return view('project-types');
 })->name('project-types');
 
+Route::get('/mentions-legales', function () {
+    return view('mentions-legales');
+})->name('mentions-legales');
+
 
 // gallery pages Route
 
